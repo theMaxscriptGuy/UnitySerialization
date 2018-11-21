@@ -1,0 +1,885 @@
+[
+  {
+    "name": "Directional Light",
+    "componentArray": [
+      {
+        "assemblyName": "UnityEngine.Transform, UnityEngine.CoreModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null",
+        "componentData": [
+          {
+            "property": "position",
+            "value": "(0.0, 3.0, 0.0)"
+          },
+          {
+            "property": "localPosition",
+            "value": "(0.0, 3.0, 0.0)"
+          },
+          {
+            "property": "eulerAngles",
+            "value": "(50.0, 330.0, 0.0)"
+          },
+          {
+            "property": "localEulerAngles",
+            "value": "(50.0, 330.0, 0.0)"
+          },
+          {
+            "property": "right",
+            "value": "(0.9, 0.0, 0.5)"
+          },
+          {
+            "property": "up",
+            "value": "(-0.4, 0.6, 0.7)"
+          },
+          {
+            "property": "forward",
+            "value": "(-0.3, -0.8, 0.6)"
+          },
+          {
+            "property": "rotation",
+            "value": "(0.4, -0.2, 0.1, 0.9)"
+          },
+          {
+            "property": "localRotation",
+            "value": "(0.4, -0.2, 0.1, 0.9)"
+          },
+          {
+            "property": "localScale",
+            "value": "(1.0, 1.0, 1.0)"
+          },
+          {
+            "property": "worldToLocalMatrix",
+            "value": "0.86603\t0.00000\t0.50000\t0.00000\n-0.38302\t0.64279\t0.66341\t-1.92836\n-0.32139\t-0.76604\t0.55667\t2.29813\n0.00000\t0.00000\t0.00000\t1.00000\n"
+          },
+          {
+            "property": "localToWorldMatrix",
+            "value": "0.86603\t-0.38302\t-0.32139\t0.00000\n0.00000\t0.64279\t-0.76604\t3.00000\n0.50000\t0.66341\t0.55667\t0.00000\n0.00000\t0.00000\t0.00000\t1.00000\n"
+          },
+          {
+            "property": "root",
+            "value": "Directional Light (UnityEngine.Transform)"
+          },
+          {
+            "property": "childCount",
+            "value": "0"
+          },
+          {
+            "property": "lossyScale",
+            "value": "(1.0, 1.0, 1.0)"
+          },
+          {
+            "property": "hasChanged",
+            "value": "True"
+          },
+          {
+            "property": "hierarchyCapacity",
+            "value": "1"
+          },
+          {
+            "property": "hierarchyCount",
+            "value": "0"
+          },
+          {
+            "property": "transform",
+            "value": "Directional Light (UnityEngine.Transform)"
+          },
+          {
+            "property": "gameObject",
+            "value": "Directional Light (UnityEngine.GameObject)"
+          },
+          {
+            "property": "tag",
+            "value": "Untagged"
+          },
+          {
+            "property": "name",
+            "value": "Directional Light"
+          },
+          {
+            "property": "hideFlags",
+            "value": "None"
+          }
+        ]
+      },
+      {
+        "assemblyName": "UnityEngine.Light, UnityEngine.CoreModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null",
+        "componentData": [
+          {
+            "property": "shadows",
+            "value": "Soft"
+          },
+          {
+            "property": "shadowStrength",
+            "value": "1"
+          },
+          {
+            "property": "shadowResolution",
+            "value": "FromQualitySettings"
+          },
+          {
+            "property": "shadowSoftness",
+            "value": "4"
+          },
+          {
+            "property": "shadowSoftnessFade",
+            "value": "1"
+          },
+          {
+            "property": "layerShadowCullDistances",
+            "value": "System.Single[]"
+          },
+          {
+            "property": "cookieSize",
+            "value": "10"
+          },
+          {
+            "property": "renderMode",
+            "value": "Auto"
+          },
+          {
+            "property": "bakedIndex",
+            "value": "0"
+          },
+          {
+            "property": "areaSize",
+            "value": "(1.0, 1.0)"
+          },
+          {
+            "property": "lightmapBakeType",
+            "value": "Mixed"
+          },
+          {
+            "property": "commandBufferCount",
+            "value": "0"
+          },
+          {
+            "property": "pixelLightCount",
+            "value": "3"
+          },
+          {
+            "property": "shadowConstantBias",
+            "value": "0"
+          },
+          {
+            "property": "shadowObjectSizeBias",
+            "value": "0"
+          },
+          {
+            "property": "attenuate",
+            "value": "True"
+          },
+          {
+            "property": "type",
+            "value": "Directional"
+          },
+          {
+            "property": "spotAngle",
+            "value": "30"
+          },
+          {
+            "property": "color",
+            "value": "RGBA(1.000, 0.957, 0.839, 1.000)"
+          },
+          {
+            "property": "colorTemperature",
+            "value": "6570"
+          },
+          {
+            "property": "intensity",
+            "value": "1"
+          },
+          {
+            "property": "bounceIntensity",
+            "value": "1"
+          },
+          {
+            "property": "shadowCustomResolution",
+            "value": "-1"
+          },
+          {
+            "property": "shadowBias",
+            "value": "0.05"
+          },
+          {
+            "property": "shadowNormalBias",
+            "value": "0.4"
+          },
+          {
+            "property": "shadowNearPlane",
+            "value": "0.2"
+          },
+          {
+            "property": "range",
+            "value": "10"
+          },
+          {
+            "property": "bakingOutput",
+            "value": "UnityEngine.LightBakingOutput"
+          },
+          {
+            "property": "cullingMask",
+            "value": "-1"
+          },
+          {
+            "property": "lightShadowCasterMode",
+            "value": "Default"
+          },
+          {
+            "property": "shadowRadius",
+            "value": "0"
+          },
+          {
+            "property": "shadowAngle",
+            "value": "0"
+          },
+          {
+            "property": "lightmappingMode",
+            "value": "Realtime"
+          },
+          {
+            "property": "isBaked",
+            "value": "True"
+          },
+          {
+            "property": "alreadyLightmapped",
+            "value": "True"
+          },
+          {
+            "property": "enabled",
+            "value": "True"
+          },
+          {
+            "property": "isActiveAndEnabled",
+            "value": "True"
+          },
+          {
+            "property": "transform",
+            "value": "Directional Light (UnityEngine.Transform)"
+          },
+          {
+            "property": "gameObject",
+            "value": "Directional Light (UnityEngine.GameObject)"
+          },
+          {
+            "property": "tag",
+            "value": "Untagged"
+          },
+          {
+            "property": "name",
+            "value": "Directional Light"
+          },
+          {
+            "property": "hideFlags",
+            "value": "None"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Main Camera",
+    "componentArray": [
+      {
+        "assemblyName": "UnityEngine.Transform, UnityEngine.CoreModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null",
+        "componentData": [
+          {
+            "property": "position",
+            "value": "(0.0, 1.0, -10.0)"
+          },
+          {
+            "property": "localPosition",
+            "value": "(0.0, 1.0, -10.0)"
+          },
+          {
+            "property": "eulerAngles",
+            "value": "(0.0, 0.0, 0.0)"
+          },
+          {
+            "property": "localEulerAngles",
+            "value": "(0.0, 0.0, 0.0)"
+          },
+          {
+            "property": "right",
+            "value": "(1.0, 0.0, 0.0)"
+          },
+          {
+            "property": "up",
+            "value": "(0.0, 1.0, 0.0)"
+          },
+          {
+            "property": "forward",
+            "value": "(0.0, 0.0, 1.0)"
+          },
+          {
+            "property": "rotation",
+            "value": "(0.0, 0.0, 0.0, 1.0)"
+          },
+          {
+            "property": "localRotation",
+            "value": "(0.0, 0.0, 0.0, 1.0)"
+          },
+          {
+            "property": "localScale",
+            "value": "(1.0, 1.0, 1.0)"
+          },
+          {
+            "property": "worldToLocalMatrix",
+            "value": "1.00000\t0.00000\t0.00000\t0.00000\n0.00000\t1.00000\t0.00000\t-1.00000\n0.00000\t0.00000\t1.00000\t10.00000\n0.00000\t0.00000\t0.00000\t1.00000\n"
+          },
+          {
+            "property": "localToWorldMatrix",
+            "value": "1.00000\t0.00000\t0.00000\t0.00000\n0.00000\t1.00000\t0.00000\t1.00000\n0.00000\t0.00000\t1.00000\t-10.00000\n0.00000\t0.00000\t0.00000\t1.00000\n"
+          },
+          {
+            "property": "root",
+            "value": "Main Camera (UnityEngine.Transform)"
+          },
+          {
+            "property": "childCount",
+            "value": "0"
+          },
+          {
+            "property": "lossyScale",
+            "value": "(1.0, 1.0, 1.0)"
+          },
+          {
+            "property": "hasChanged",
+            "value": "True"
+          },
+          {
+            "property": "hierarchyCapacity",
+            "value": "1"
+          },
+          {
+            "property": "hierarchyCount",
+            "value": "0"
+          },
+          {
+            "property": "transform",
+            "value": "Main Camera (UnityEngine.Transform)"
+          },
+          {
+            "property": "gameObject",
+            "value": "Main Camera (UnityEngine.GameObject)"
+          },
+          {
+            "property": "tag",
+            "value": "Untagged"
+          },
+          {
+            "property": "name",
+            "value": "Main Camera"
+          },
+          {
+            "property": "hideFlags",
+            "value": "None"
+          }
+        ]
+      },
+      {
+        "assemblyName": "UnityEngine.Camera, UnityEngine.CoreModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null",
+        "componentData": [
+          {
+            "property": "nearClipPlane",
+            "value": "0.3"
+          },
+          {
+            "property": "farClipPlane",
+            "value": "1000"
+          },
+          {
+            "property": "fieldOfView",
+            "value": "60"
+          },
+          {
+            "property": "renderingPath",
+            "value": "UsePlayerSettings"
+          },
+          {
+            "property": "actualRenderingPath",
+            "value": "Forward"
+          },
+          {
+            "property": "allowHDR",
+            "value": "True"
+          },
+          {
+            "property": "allowMSAA",
+            "value": "True"
+          },
+          {
+            "property": "allowDynamicResolution",
+            "value": "False"
+          },
+          {
+            "property": "forceIntoRenderTexture",
+            "value": "False"
+          },
+          {
+            "property": "orthographicSize",
+            "value": "5"
+          },
+          {
+            "property": "orthographic",
+            "value": "False"
+          },
+          {
+            "property": "opaqueSortMode",
+            "value": "Default"
+          },
+          {
+            "property": "transparencySortMode",
+            "value": "Default"
+          },
+          {
+            "property": "transparencySortAxis",
+            "value": "(0.0, 0.0, 1.0)"
+          },
+          {
+            "property": "depth",
+            "value": "-1"
+          },
+          {
+            "property": "aspect",
+            "value": "1.213983"
+          },
+          {
+            "property": "velocity",
+            "value": "(0.0, 0.0, 0.0)"
+          },
+          {
+            "property": "cullingMask",
+            "value": "-1"
+          },
+          {
+            "property": "eventMask",
+            "value": "-1"
+          },
+          {
+            "property": "layerCullSpherical",
+            "value": "False"
+          },
+          {
+            "property": "cameraType",
+            "value": "Game"
+          },
+          {
+            "property": "layerCullDistances",
+            "value": "System.Single[]"
+          },
+          {
+            "property": "useOcclusionCulling",
+            "value": "True"
+          },
+          {
+            "property": "cullingMatrix",
+            "value": "1.42675\t0.00000\t0.00000\t0.00000\n0.00000\t1.73205\t0.00000\t-1.73205\n0.00000\t0.00000\t1.00060\t9.40582\n0.00000\t0.00000\t1.00000\t10.00000\n"
+          },
+          {
+            "property": "backgroundColor",
+            "value": "RGBA(0.192, 0.302, 0.475, 0.000)"
+          },
+          {
+            "property": "clearFlags",
+            "value": "Skybox"
+          },
+          {
+            "property": "depthTextureMode",
+            "value": "None"
+          },
+          {
+            "property": "clearStencilAfterLightingPass",
+            "value": "False"
+          },
+          {
+            "property": "usePhysicalProperties",
+            "value": "False"
+          },
+          {
+            "property": "sensorSize",
+            "value": "(36.0, 24.0)"
+          },
+          {
+            "property": "lensShift",
+            "value": "(0.0, 0.0)"
+          },
+          {
+            "property": "focalLength",
+            "value": "50"
+          },
+          {
+            "property": "rect",
+            "value": "(x:0.00, y:0.00, width:1.00, height:1.00)"
+          },
+          {
+            "property": "pixelRect",
+            "value": "(x:0.00, y:0.00, width:573.00, height:472.00)"
+          },
+          {
+            "property": "pixelWidth",
+            "value": "573"
+          },
+          {
+            "property": "pixelHeight",
+            "value": "472"
+          },
+          {
+            "property": "scaledPixelWidth",
+            "value": "573"
+          },
+          {
+            "property": "scaledPixelHeight",
+            "value": "472"
+          },
+          {
+            "property": "targetDisplay",
+            "value": "0"
+          },
+          {
+            "property": "cameraToWorldMatrix",
+            "value": "1.00000\t0.00000\t0.00000\t0.00000\n0.00000\t1.00000\t0.00000\t1.00000\n0.00000\t0.00000\t-1.00000\t-10.00000\n0.00000\t0.00000\t0.00000\t1.00000\n"
+          },
+          {
+            "property": "worldToCameraMatrix",
+            "value": "1.00000\t0.00000\t0.00000\t0.00000\n0.00000\t1.00000\t0.00000\t-1.00000\n0.00000\t0.00000\t-1.00000\t-10.00000\n0.00000\t0.00000\t0.00000\t1.00000\n"
+          },
+          {
+            "property": "projectionMatrix",
+            "value": "1.42675\t0.00000\t0.00000\t0.00000\n0.00000\t1.73205\t0.00000\t0.00000\n0.00000\t0.00000\t-1.00060\t-0.60018\n0.00000\t0.00000\t-1.00000\t0.00000\n"
+          },
+          {
+            "property": "nonJitteredProjectionMatrix",
+            "value": "1.42675\t0.00000\t0.00000\t0.00000\n0.00000\t1.73205\t0.00000\t0.00000\n0.00000\t0.00000\t-1.00060\t-0.60018\n0.00000\t0.00000\t-1.00000\t0.00000\n"
+          },
+          {
+            "property": "useJitteredProjectionMatrixForTransparentRendering",
+            "value": "True"
+          },
+          {
+            "property": "previousViewProjectionMatrix",
+            "value": "1.42675\t0.00000\t0.00000\t0.00000\n0.00000\t-1.73205\t0.00000\t1.73205\n0.00000\t0.00000\t-0.00030\t0.29709\n0.00000\t0.00000\t1.00000\t10.00000\n"
+          },
+          {
+            "property": "scene",
+            "value": "UnityEngine.SceneManagement.Scene"
+          },
+          {
+            "property": "stereoEnabled",
+            "value": "False"
+          },
+          {
+            "property": "stereoSeparation",
+            "value": "0.022"
+          },
+          {
+            "property": "stereoConvergence",
+            "value": "10"
+          },
+          {
+            "property": "areVRStereoViewMatricesWithinSingleCullTolerance",
+            "value": "False"
+          },
+          {
+            "property": "stereoTargetEye",
+            "value": "Both"
+          },
+          {
+            "property": "stereoActiveEye",
+            "value": "Mono"
+          },
+          {
+            "property": "allCamerasCount",
+            "value": "1"
+          },
+          {
+            "property": "allCameras",
+            "value": "UnityEngine.Camera[]"
+          },
+          {
+            "property": "commandBufferCount",
+            "value": "0"
+          },
+          {
+            "property": "isOrthoGraphic",
+            "value": "False"
+          },
+          {
+            "property": "near",
+            "value": "0.3"
+          },
+          {
+            "property": "far",
+            "value": "1000"
+          },
+          {
+            "property": "fov",
+            "value": "60"
+          },
+          {
+            "property": "hdr",
+            "value": "True"
+          },
+          {
+            "property": "stereoMirrorMode",
+            "value": "False"
+          },
+          {
+            "property": "enabled",
+            "value": "True"
+          },
+          {
+            "property": "isActiveAndEnabled",
+            "value": "True"
+          },
+          {
+            "property": "transform",
+            "value": "Main Camera (UnityEngine.Transform)"
+          },
+          {
+            "property": "gameObject",
+            "value": "Main Camera (UnityEngine.GameObject)"
+          },
+          {
+            "property": "tag",
+            "value": "Untagged"
+          },
+          {
+            "property": "name",
+            "value": "Main Camera"
+          },
+          {
+            "property": "hideFlags",
+            "value": "None"
+          }
+        ]
+      },
+      {
+        "assemblyName": "UnityEngine.AudioListener, UnityEngine.AudioModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null",
+        "componentData": [
+          {
+            "property": "volume",
+            "value": "1"
+          },
+          {
+            "property": "pause",
+            "value": "False"
+          },
+          {
+            "property": "velocityUpdateMode",
+            "value": "Auto"
+          },
+          {
+            "property": "enabled",
+            "value": "True"
+          },
+          {
+            "property": "isActiveAndEnabled",
+            "value": "True"
+          },
+          {
+            "property": "transform",
+            "value": "Main Camera (UnityEngine.Transform)"
+          },
+          {
+            "property": "gameObject",
+            "value": "Main Camera (UnityEngine.GameObject)"
+          },
+          {
+            "property": "tag",
+            "value": "Untagged"
+          },
+          {
+            "property": "name",
+            "value": "Main Camera"
+          },
+          {
+            "property": "hideFlags",
+            "value": "None"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "SerializableObject",
+    "componentArray": [
+      {
+        "assemblyName": "UnityEngine.Transform, UnityEngine.CoreModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null",
+        "componentData": [
+          {
+            "property": "position",
+            "value": "(0.0, 0.0, 0.0)"
+          },
+          {
+            "property": "localPosition",
+            "value": "(0.0, 0.0, 0.0)"
+          },
+          {
+            "property": "eulerAngles",
+            "value": "(0.0, 0.0, 0.0)"
+          },
+          {
+            "property": "localEulerAngles",
+            "value": "(0.0, 0.0, 0.0)"
+          },
+          {
+            "property": "right",
+            "value": "(1.0, 0.0, 0.0)"
+          },
+          {
+            "property": "up",
+            "value": "(0.0, 1.0, 0.0)"
+          },
+          {
+            "property": "forward",
+            "value": "(0.0, 0.0, 1.0)"
+          },
+          {
+            "property": "rotation",
+            "value": "(0.0, 0.0, 0.0, 1.0)"
+          },
+          {
+            "property": "localRotation",
+            "value": "(0.0, 0.0, 0.0, 1.0)"
+          },
+          {
+            "property": "localScale",
+            "value": "(1.0, 1.0, 1.0)"
+          },
+          {
+            "property": "worldToLocalMatrix",
+            "value": "1.00000\t0.00000\t0.00000\t0.00000\n0.00000\t1.00000\t0.00000\t0.00000\n0.00000\t0.00000\t1.00000\t0.00000\n0.00000\t0.00000\t0.00000\t1.00000\n"
+          },
+          {
+            "property": "localToWorldMatrix",
+            "value": "1.00000\t0.00000\t0.00000\t0.00000\n0.00000\t1.00000\t0.00000\t0.00000\n0.00000\t0.00000\t1.00000\t0.00000\n0.00000\t0.00000\t0.00000\t1.00000\n"
+          },
+          {
+            "property": "root",
+            "value": "SerializableObject (UnityEngine.Transform)"
+          },
+          {
+            "property": "childCount",
+            "value": "0"
+          },
+          {
+            "property": "lossyScale",
+            "value": "(1.0, 1.0, 1.0)"
+          },
+          {
+            "property": "hasChanged",
+            "value": "True"
+          },
+          {
+            "property": "hierarchyCapacity",
+            "value": "1"
+          },
+          {
+            "property": "hierarchyCount",
+            "value": "0"
+          },
+          {
+            "property": "transform",
+            "value": "SerializableObject (UnityEngine.Transform)"
+          },
+          {
+            "property": "gameObject",
+            "value": "SerializableObject (UnityEngine.GameObject)"
+          },
+          {
+            "property": "tag",
+            "value": "Untagged"
+          },
+          {
+            "property": "name",
+            "value": "SerializableObject"
+          },
+          {
+            "property": "hideFlags",
+            "value": "None"
+          }
+        ]
+      },
+      {
+        "assemblyName": "Serialize, Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null",
+        "componentData": [
+          {
+            "property": "useGUILayout",
+            "value": "True"
+          },
+          {
+            "property": "runInEditMode",
+            "value": "False"
+          },
+          {
+            "property": "enabled",
+            "value": "True"
+          },
+          {
+            "property": "isActiveAndEnabled",
+            "value": "True"
+          },
+          {
+            "property": "transform",
+            "value": "SerializableObject (UnityEngine.Transform)"
+          },
+          {
+            "property": "gameObject",
+            "value": "SerializableObject (UnityEngine.GameObject)"
+          },
+          {
+            "property": "tag",
+            "value": "Untagged"
+          },
+          {
+            "property": "name",
+            "value": "SerializableObject"
+          },
+          {
+            "property": "hideFlags",
+            "value": "None"
+          }
+        ]
+      },
+      {
+        "assemblyName": "SerializeTransform, Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null",
+        "componentData": [
+          {
+            "property": "useGUILayout",
+            "value": "True"
+          },
+          {
+            "property": "runInEditMode",
+            "value": "False"
+          },
+          {
+            "property": "enabled",
+            "value": "False"
+          },
+          {
+            "property": "isActiveAndEnabled",
+            "value": "False"
+          },
+          {
+            "property": "transform",
+            "value": "SerializableObject (UnityEngine.Transform)"
+          },
+          {
+            "property": "gameObject",
+            "value": "SerializableObject (UnityEngine.GameObject)"
+          },
+          {
+            "property": "tag",
+            "value": "Untagged"
+          },
+          {
+            "property": "name",
+            "value": "SerializableObject"
+          },
+          {
+            "property": "hideFlags",
+            "value": "None"
+          }
+        ]
+      }
+    ]
+  }
+]
